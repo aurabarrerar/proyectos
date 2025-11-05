@@ -1,0 +1,3 @@
+[submodule "proyectos/sistema-gestion-academica"]
+	path = proyectos/sistema-gestion-academica
+	url = https://github.com/aurabarrerar/front-sistemagestionacademica
